@@ -1,0 +1,5 @@
+dataset/Embedding.json
+dataset/Embedding_new.json
+words/*.csv
+CalModule/__pycache__
+testSet/*.json
