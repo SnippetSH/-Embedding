@@ -10,4 +10,6 @@ embedding.py: openai의 text-embedding-ada-002 모델을 사용하여 한국어 
 
 testSet: 약간의 단어들을 활용해서 embedding vector가 어떻게 나오는지 파악합니다.
 
-해당 vector에 대한 데이터는 dataset 폴더에서 확인할 수 있습니다.
+----
+전체 단어들은 /words/에서,   
+해당 단어들에 대한 vector는 /dataset/ 에서 확인할 수 있습니다.
