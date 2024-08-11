@@ -3,3 +3,4 @@ dataset/Embedding_new.json
 words/*.csv
 CalModule/__pycache__
 testSet/*.json
+dataset/Embedding_with_Label.json
